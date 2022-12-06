@@ -3,8 +3,6 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  width: fit-content;
-  block-size: fit-content;
 }
 .places article {
   width: 390px;
