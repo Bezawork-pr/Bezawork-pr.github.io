@@ -21,7 +21,7 @@ At 1:06 PM, our team member Magi was alerted. She started debugging right away. 
 This morning, we conducted an internal review of the outage. We also discussed how we can reduce such issues in the future. And have come to the common conclusion that the following steps should be taken:
 
 - For now, add one more server and more as the traffic grows.
-- Peer reviews before changes are should be made.
+- Peer reviews before changes.
  
 Sincerely,
 
