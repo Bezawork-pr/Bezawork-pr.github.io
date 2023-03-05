@@ -1,6 +1,6 @@
 # <pre> Server outage incident report at Company X <img src="https://user-images.githubusercontent.com/107026397/222690413-0b27ca4a-fef3-4daf-89eb-0f5a71f72613.jpg" width=10% height=10%/></pre>
  
-### <img src="https://user-images.githubusercontent.com/107026397/222704447-0988bfdd-1a8b-492a-83b0-b4e6595c1da8.png" width=3% height=3%/> Yesterday, on Friday, March 2, 2023, at 13:06 PM, we experienced an outage. And today, we are providing an incident report.
+<img src="https://user-images.githubusercontent.com/107026397/222704447-0988bfdd-1a8b-492a-83b0-b4e6595c1da8.png" width=3% height=3%/> Yesterday, on Friday, March 2, 2023, at 13:06 PM, we experienced an outage. And today, we are providing an incident report.
  
 ### <pre> Issue Summary </pre>
 On Friday, March 2, 2023, at 1:06 pm, our server had an outage until 13:20. The error code response had error status 500. Followers of bloggers from our company could not access the web pages. The issue affected 100% of the traffic to the server. The root cause of the outage was a typo in naming a file with an extension of "phpp instead of php.". 
