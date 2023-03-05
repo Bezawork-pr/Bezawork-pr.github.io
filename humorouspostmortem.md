@@ -1,4 +1,6 @@
 # <pre> Server outage incident report at Company X<img src="https://user-images.githubusercontent.com/107026397/222690413-0b27ca4a-fef3-4daf-89eb-0f5a71f72613.jpg" width=10% height=10%/></pre>
+![electronic_monitoring_3249425](https://user-images.githubusercontent.com/107026397/222981404-138bcb97-f440-4377-9728-a5fe3fc1f015.jpeg)
+
  
 <img src="https://user-images.githubusercontent.com/107026397/222704447-0988bfdd-1a8b-492a-83b0-b4e6595c1da8.png" width=3% height=3%/>  Yesterday, on March 2, 2023, at 13:06 PM, we experienced an outage. If you thought you were stressed when you couldn't access your favorite bloggers, imagine Maggie, who not only had to debug the system but also had to deal with our "What Happened Then" fans, who kept calling to know what happens in the next episode. Today, we are providing an incident report detailing what caused the outage and measures taken to minimize future incidents like this.
  
