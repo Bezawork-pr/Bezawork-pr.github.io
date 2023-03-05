@@ -14,7 +14,7 @@ On Friday, March 2, 2023, at 1:06 pm, our server had an outage until 13:20. The 
 - 1:20 PM: 100% of traffic is back online.
  
 ### <pre> Root cause </pre>
-At 1:06 pm, changes were made to the file wp-setting.php, and the file, when including another file, was saved with a typo in the extension, which led to the server responding with error 500 when users tried to access it.
+At 1:06 pm, changes were made to the file wp-setting.php. When including another file, a typo in the extension was made, which led to the server responding with error 500 when users tried to access it.
 ### <pre> Resolution and recovery </pre>
 At 1:06 PM, our team member Magi was alerted. She started debugging right away. Only a few steps were taken to find the bug, as it was not a complicated system failure. She started debugging to find what was causing the error, and in two steps she was able to find the root cause of the error. She put debugging on wp-config.php, which resolved the 500 error. Though the 500 error was resolved, the server was still returning an empty string. Then she used the curl command with flag -4 to get details of what was happening. This command returned a file trying to be included that could not be found and saw that it has a typo in the extension; this was resolved by editing the file.
 ### <pre> Corrective and preventative measures </pre>
